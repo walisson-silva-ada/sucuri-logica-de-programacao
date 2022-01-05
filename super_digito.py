@@ -1,3 +1,5 @@
+#uestão super digito
+
 def super_digito(x:int) ->int:
     x=str(x)
     if len(x)==1:
